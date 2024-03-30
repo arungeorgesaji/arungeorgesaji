@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Arun George Saji 👋
 
-<!--
-**arungeorgesaji/arungeorgesaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate programmer on a constant quest for innovation, striving to carve my niche in the tech world. With a knack for swiftly mastering programming languages, I relish turning ideas into reality through innovative projects. Linux is my trusted companion, empowering my journey as I delve into various technical domains. From video and photo editing to digital art and music creation, I thrive on pushing boundaries. My expertise extends beyond the virtual realm; I'm well-versed in hardware intricacies, especially in microcontrollers, single-board computers, and computer hardware. Prompt engineering is my forte, aided by adept utilization of AI tools for task optimization.
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Programming**: Mastering diverse programming languages for cutting-edge projects.
+- **Linux**: Proficiently navigating the realms of Linux as my primary OS.
+- **Hardware Proficiency**: Delving deep into the intricacies of computer hardware and embedded systems.
+- **Prompt Engineering**: Leveraging AI tools to expedite tasks efficiently.
+- **Others**: Proficient in various other technical skills such as containerization, music editing, video editing, music composition, digital art, photo editing, and much more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+- I'm an avid devotee of Arch Linux.
+- When it comes to interface preferences, I opt for window managers over desktop environments, with dwm as my go-to choice, though I occasionally venture into the realm of KDE Plasma when necessity beckons.
+
+## Contact Me
+- **Email**: arungeorgesaji@gmail.com
