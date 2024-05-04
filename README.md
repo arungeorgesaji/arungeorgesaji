@@ -15,7 +15,7 @@ For a detailed list of all the software I use regularly and my dotfiles for some
 
 ## Fun Facts
 - I'm an avid devotee of Arch Linux.
-- When it comes to interface preferences, I opt for window managers over desktop environments, with dwm as my go-to choice, though I occasionally venture into the realm of KDE Plasma when necessity beckons.
+- When it comes to interface preferences, I opt for window managers over desktop environments, with dwm as my go-to choice.
 
 ## Contact Me
 - **Email**: arungeorgesaji@gmail.com
