@@ -1,5 +1,7 @@
 # Hi there, I'm Arun George Saji 👋
 
+[![An image of @arungeorgesaji's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arungeorgesaji)](https://holopin.io/@arungeorgesaji) 
+
 ## About Me
 I'm a passionate programmer on a constant quest for innovation, striving to carve my niche in the tech world. With a knack for swiftly mastering programming languages, I relish turning ideas into reality through innovative projects. Linux is my trusted companion, empowering my journey as I delve into various technical domains. From video and photo editing to digital art and music creation, I thrive on pushing boundaries. My expertise extends beyond the virtual realm; I'm well-versed in hardware intricacies, especially in microcontrollers, single-board computers, and computer hardware. Prompt engineering is my forte, aided by the adept utilization of AI tools for task optimization.
 
