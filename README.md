@@ -3,9 +3,11 @@
 ## About Me
 I'm a passionate programmer on a constant quest for innovation, striving to carve my niche in the tech world. With a knack for swiftly mastering programming languages and turning ideas into reality, I thrive on pushing boundaries across various technical domains.
 
-Linux is my trusted companion, and I also have a strong understanding of hardware, particularly microcontrollers and single-board computers.
+As an open source advocate, I believe in the power of collaboration and community-driven development. Linux is my trusted companion, empowering my journey as I explore various technical domains. I constantly seek to push boundaries in my work.
 
-I’m dedicated to mentoring others in their tech journeys, helping them unlock their potential and overcome challenges. Prompt engineering is my forte, leveraging AI tools for task optimization.
+Beyond coding, I’m passionate about sharing my knowledge with others. I offer mentorship to those eager to learn and grow in their tech journeys, helping them unlock their potential and guiding them through challenges.
+
+Prompt engineering is my forte, aided by the adept utilization of AI tools for task optimization. I'm constantly pushing forward, experimenting, learning, and innovating.
 
 To learn more about my projects and expertise, visit [my website](https://arungeorgesaji.is-a.dev).
 
