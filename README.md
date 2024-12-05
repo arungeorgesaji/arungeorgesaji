@@ -9,9 +9,10 @@ Beyond coding, I’m passionate about sharing my knowledge with others. I offer 
 
 Prompt engineering is my forte, aided by the adept utilization of AI tools for task optimization. I'm constantly pushing forward, experimenting, learning, and innovating.
 
-To learn more about my projects and expertise, visit [my website](https://arungeorgesaji.is-a.dev).
+To learn more about my projects and expertise, visit [my website](https://arungeorgesaji.is-a.dev) or view [my resume](https://rxresu.me/arungeorgesaji/simple-resume).
 
 ## Contact Me
 - **Email**: arungeorgesaji@gmail.com
 - **Website**: [my website](https://arungeorgesaji.is-a.dev)
+- **Resume**: [my resume](https://rxresu.me/arungeorgesaji/simple-resume)
 
