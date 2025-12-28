@@ -7,4 +7,4 @@ and mentoring others along their journey in tech.
 ## Contact Me
 - **Email**: arungeorgesaji@gmail.com
 - **Website**: [my website](https://arungeorgesaji.github.io)
-- **Resume**: [my resume](https://rxresu.me/arungeorgesaji/simple-resume)
+- **Resume**: [my resume](https://rxresu.me/arungeorgesaji/resume)
